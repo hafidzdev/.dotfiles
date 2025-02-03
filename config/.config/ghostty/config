@@ -1,0 +1,26 @@
+theme = Github Dark
+
+window-padding-x = 5
+window-padding-y = 5
+window-padding-balance= true
+window-width = 110
+window-height = 27
+window-save-state = always
+fullscreen = true
+
+working-directory = home
+window-inherit-working-directory = true
+
+
+# macos-titlebar-style = hidden
+macos-titlebar-proxy-icon = hidden
+
+font-family = JetBrains Mono
+font-size = 13
+font-feature = -liga
+shell-integration-features = no-cursor
+cursor-style = bar
+adjust-cursor-height= 1
+
+auto-update = check
+auto-update-channel = tip

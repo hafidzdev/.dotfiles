@@ -1,0 +1,23 @@
+alias nv="nvim"
+alias vi="nvim"
+alias tr="trae"
+
+alias gs='git status'
+alias gp='git pull'
+alias gph='git push'
+alias gd='git diff | mate'
+alias gau='git add --update'
+alias gaa='git add .'
+alias gc='git commit'
+alias gcm='git commit -m'
+alias gca='git commit -v -a'
+alias gb='git branch'
+alias gba='git branch -a'
+alias gco='git checkout'
+alias gcob='git checkout -b'
+alias gcot='git checkout -t'
+alias gcotb='git checkout --track -b'
+alias glog='git log'
+alias glogp='git log --pretty=format:"%h %s" --graph'
+alias gfo='git fetch origin'
+alias gm='git merge'
