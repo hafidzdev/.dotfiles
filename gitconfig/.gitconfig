@@ -1,0 +1,12 @@
+[user]
+	name = hafidzdev
+	email = 13832826+hafidzdev@users.noreply.github.com
+[init]
+	defaultBranch = main
+[credential]
+	helper = 
+	helper = /usr/local/share/gcm-core/git-credential-manager
+[credential "https://dev.azure.com"]
+	useHttpPath = true
+[credential "https://github.com"]
+	useHttpPath = true
