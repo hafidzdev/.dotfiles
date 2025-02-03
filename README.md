@@ -28,7 +28,7 @@ To apply your dotfiles (configuration files), use stow to symlink them from your
 Run the following command to symlink all dotfiles:
 
 ```
-stow ~/.dotfiles/* ~/
+stow ~/.dotfiles/* <folder name>
 ```
 
 This will create symlinks for all the configuration files in your `~/.dotfiles` directory, ensuring that your system is set up with your desired configurations.
